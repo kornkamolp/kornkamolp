@@ -10,7 +10,7 @@ Data-Driven Insights with SQL: My journey into data analysis using SQL. These pr
 
 # Project content 
 ### Restaurant Data Analysis
-My first SQL project! Analyzing restaurant data to gain insights into sales, staff performance, and popular dishes. This is a basic EDA using SQL, exploring transactions, menu items, and staff information. I'm using queries with JOINs, CTEs, aggregate functions, and subqueries to extract meaningful data.
+My first SQL project! Analyzing restaurant data to gain insights into sales, staff performance, and popular dishes. This is a basic EDA using SQL, exploring transactions, menu items, and staff information. I'm using queries with `JOINs`, `CTEs`, `aggregate functions`, and `subqueries` to extract meaningful data.
 
 Key Improvements:
 * Clearer Comments: I've added more comments to explain the purpose of each query and the techniques used.
